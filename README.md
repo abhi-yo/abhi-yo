@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshat
+- 👋 Hi, I’m @Akshat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on data analysis
