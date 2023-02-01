@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshat
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me akshatsing11@gmail.com
 
 <!---
