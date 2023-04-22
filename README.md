@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshat
+- 👋 Hi, I’m Akshat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Web development.
