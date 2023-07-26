@@ -1,5 +1,7 @@
-# Hello there, I am Akshat!
-a pre-final year CSE undergrad who <b>loves programming</b> and making <b>random web-based applications for fun.</b>
+# Hi there! 👋 I'm Akshat,
+a pre-final year CSE undergrad a passionate problem solver and software enthusiast. </b>
+
+I've solved 100+ coding questions on <a href="https://leetcode.com/akshat-yo/">LeetCode</a> and enjoy tackling challenging problems.
 
 My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, Express and MongoDB</b> for backend. I am currently learning Web Development.
 
