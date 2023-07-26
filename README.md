@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Akshat,
+# Hello there, I am Akshat!
 a pre-final year CSE undergrad a passionate problem solver and software enthusiast. </b>
 
 I've solved 100+ coding questions on <a href="https://leetcode.com/akshat-yo/">LeetCode</a> and enjoy tackling challenging problems.
