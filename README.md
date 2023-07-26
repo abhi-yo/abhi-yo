@@ -20,4 +20,4 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 - <b>Flaming consultancy</b>
 
 <h3>Connect with Me</h3>
-<a href="linkedin.com">LinkedIn</a> • <a href="instagram.com">Instagram</a> • <a href="twitter.com">Twitter</a>
+<a href="akshatsing11@gmail.com">Email</a> • <a href="instagram.com">Instagram</a> • <a href="twitter.com">Twitter</a>
