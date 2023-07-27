@@ -14,7 +14,7 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 
 <h3>My Projects</h3>
 - RazorPay Clone <br>
-   Clone of RazorPay website using tailwind css.
+&nbsp;&nbsp;Clone of RazorPay website using tailwind css.
 
 <h3>Other Projects</h3>
 - <b>Flaming consultancy</b>
