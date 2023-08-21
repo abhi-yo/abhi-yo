@@ -13,8 +13,13 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 - <b>UI/UX</b>: Figma, Ps, Illustrator
 
 <h3>My Projects</h3>
-- RazorPay Clone <br>
-&nbsp;&nbsp;Clone of RazorPay website using tailwind css.
+- <a href="tictactoe-project-done.netlify.app/">RazorPay Clone</a> <br>
+&nbsp;&nbsp;Clone of RazorPay website using tailwind css. <br>
+- <a href="https://tictactoe-project-done.netlify.app/">Tic Tac Toe</a> <br>
+&nbsp;&nbsp;Simple tic tac toe game.<br>
+- <a href="https://weatherapp-done.netlify.app/">Weather app </a>  <br>
+&nbsp;&nbsp;It provides weather information over a place.
+
 
 <h3>Other Projects</h3>
 - <b>Flaming consultancy</b>
