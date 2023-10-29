@@ -1,7 +1,7 @@
 # Hello there, I am Akshat!
 a pre-final year CSE undergrad a passionate problem solver and software enthusiast. </b>
 
-My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, Express and MongoDB</b> for backend. I am currently learning Web Development.
+My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, Express and MongoDB</b> for backend. I am currently looking for collaborating in web development projects.
 
 <h3>My Tech Stack</h3>
 - <b>Programming Languages</b>: C, C++ and Javascript <br>
