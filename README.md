@@ -8,7 +8,7 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 - <b>Frontend</b>: HTML, CSS, React.js, Next.js and TailwindCSS<br>
 - <b>Backend</b>: Node.js, Express and MongoDB<br>
 - <b>Tools</b>: Git, Postman, Netlify<br>
-- <b>UI/UX</b>: Figma, Ps, Illustrator
+- <b>UI/UX</b>: Figma, Ps
 
 <h3>My Projects</h3>
 - <a href="tictactoe-project-done.netlify.app/">RazorPay Clone</a> <br>
