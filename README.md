@@ -5,7 +5,7 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 
 <h3>My Tech Stack</h3>
 - <b>Programming Languages</b>: C, C++ and Javascript <br>
-- <b>Frontend</b>: HTML, CSS, React.js, Next.js and TailwindCSS<br>
+- <b>Frontend</b>: HTML, CSS, React.js and TailwindCSS<br>
 - <b>Backend</b>: Node.js, Express and MongoDB<br>
 - <b>Tools</b>: Git, Postman, Netlify<br>
 - <b>UI/UX</b>: Figma, Ps
@@ -21,6 +21,8 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 
 <h3>Other Projects</h3>
 - <b>Flaming consultancy</b>
+- <b>Chat App</b>
+- <b>Energy Price Prediction</b>
 
 <h3>Connect with Me</h3>
 <a href="akshatsing11@gmail.com">Email</a> • <a href="instagram.com">Instagram</a> • <a href="twitter.com">Twitter</a>
