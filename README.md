@@ -8,7 +8,7 @@ My primary tech stack is <b>React, TailwindCSS</b> for frontend and <b>Node.js, 
 - <b>Frontend</b>: HTML, CSS, React.js and TailwindCSS<br>
 - <b>Backend</b>: Node.js, Express and MongoDB<br>
 - <b>Tools</b>: Git, Postman, Netlify<br>
-- <b>UI/UX</b>: Figma, Ps
+- <b>UI/UX</b>: Figma, Photoshop
 
 <h3>Connect with Me</h3>
 <a href="akshatsing11@gmail.com">Email</a> • <a href="instagram.com">Instagram</a> • <a href="twitter.com">Twitter</a>
