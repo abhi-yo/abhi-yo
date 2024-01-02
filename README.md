@@ -8,7 +8,7 @@ I'm a driven pre-final year CSE undergrad with a passion for sculpting captivati
 ## Tech Stack
 
 ### Programming Languages
-C++, Python, JavaScript
+C++, JavaScript, Python
 
 ### Frontend
 Javascript, React.js, Redux, TailwindCSS
