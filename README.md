@@ -11,37 +11,37 @@ I'm a driven pre-final year CSE undergrad with a passion for sculpting captivati
 C++, Python, JavaScript
 
 ### Frontend
-HTML, CSS, React.js, TailwindCSS
+Javascript, React.js, Redux, TailwindCSS
 
 ### Backend
-Node.js, Express, MongoDB
+Node.js, Express
 
 ### Tools
 Git, Postman
 
-### Cloud
-Vercel
+### Database Management
+MongoDB
 
 ### UI/UX
-Figma, Adobe XD
+Figma, Adobe XD, Webflow
 
 ## Projects
 
-### ECOMZY
+### [ECOMZY](https://shopping-cart-webapp.vercel.app/)
 - The user interface of an online shopping cart.
 - Built with Nodejs, Tailwindcss, Reactjs, Redux.
 
-### WorkforceNavigator
+### [WorkforceNavigator](https://github.com/abhi-yo/employeeManagementSystem)
 - A employee management platform featuring login/logout functionality and the capability to input and manage employee details.
 - Built with Express, MongoDB, Reactjs, Tailwindcss.
 
 ## Other Projects
 
-### Chatapp
+### [Chatapp](https://github.com/mhmdsami/chat)
 - A chat app with user registration and login capabilities.
 - Built with bun, elysia, drizzle-orm, postgres, remix, shadcn/ui.
 
-### PowerCast: Price Prognosis
+### [PowerCast](https://github.com/Huloiarnata/Energy-Price-Prediction)
 - ARIMA-based machine learning model to forecast energy prices, sending alerts for cost-saving opportunities when prices drop.
 - Contributed to debugging, training, and implementing the model for forecasting future prices.
 - Built with Python and leverages the ARIMA model.
@@ -50,4 +50,4 @@ Feel free to check out my other projects!
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/singh-akshat/) • [Instagram](https://www.instagram.com/akshat.1106/) 
+[LinkedIn](https://www.linkedin.com/in/singh-akshat/) • [Twitter](https://twitter.com/AkshatSingh_s) 
