@@ -4,26 +4,6 @@ I'm a driven pre-final year CSE undergrad with a passion for sculpting captivati
 
 - 💻 I specialize in building user interfaces
 
-## Tech Stack
-
-### Programming Languages
-C++, JavaScript, Python
-
-### Frontend
-Javascript, React.js, Redux, TailwindCSS
-
-### Backend
-Node.js, Express
-
-### Tools
-Git, Postman
-
-### Database Management
-MongoDB
-
-### UI/UX
-Figma, Adobe XD, Webflow
-
 ## Projects
 
 ### [ECOMZY](https://shopping-cart-webapp.vercel.app/)
