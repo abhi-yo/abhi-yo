@@ -27,27 +27,6 @@ I'm a driven final year CSE undergrad with a passion for sculpting captivating w
 
 Feel free to check out my other projects!
 
-
-## 📊 My Github Stats
-<div align="center">
-<br/>
-<a href="https://github.com/abhi-yo/github-readme-stats">
-  <img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhi-yo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/abhi-yo/github-readme-stats">
-  <img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-yo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi-yo&margin-w=8&margin-h=4&theme=onedark" alt="GitHub Trophies" />
-</div>
-
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/singh-akshat/) • [Twitter](https://twitter.com/AkshatSingh_s) 
