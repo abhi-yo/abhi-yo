@@ -1,9 +1,5 @@
 # Hello, I'm Akshat! 👋
 
-I'm a driven final year CSE undergrad with a passion for sculpting captivating web encounters. I thrive on tackling challenges to elevate the online world, constantly striving to enhance its quality and user experience.
-
-- 💻 I specialize in building user interfaces
-
 ## Projects
 
 ### [ECOMZY](https://shopping-cart-webapp.vercel.app/)
