@@ -41,6 +41,7 @@ const akshat = {
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2346a2f1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## **Reach out to me :** 📫
 
