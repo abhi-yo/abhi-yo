@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋 I am Akshat Singh</div>
 
-## **About Me :** 👦
+## **About Me :** 
 ```javascript
 const akshat = {
     code: ["ReactJS", "Node.js", "Javascript", "Typescript", "Next.js"],
