@@ -17,7 +17,7 @@ const akshat = {
         misc: ["Docker", "AWS", "ContextAPI"]
     },
     architecture: ["Serverless Architecture", "Microservices", "Event-driven systems"],
-    currentFocus: "Real-world problem-solving solutions",
+    currentFocus: "Problem-solving solutions",
     funFact: "I'm always up for a challenge—especially if it involves debugging or building something meaningful!"
 };
 ```
