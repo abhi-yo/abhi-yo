@@ -16,7 +16,7 @@ const akshat = {
         databases: ["MongoDB", "Postgres"],
         misc: ["Docker", "AWS", "ContextAPI"]
     },
-    architecture: ["Serverless Architecture", "Microservices", "Event-driven systems"],
+    architecture: ["Serverless Architecture", "Event-driven systems"],
     currentFocus: "Problem-solving solutions",
     funFact: "I'm always up for a challenge—especially if it involves debugging or building something meaningful!"
 };
