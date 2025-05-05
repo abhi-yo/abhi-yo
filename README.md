@@ -48,4 +48,4 @@ const akshat = {
 [![Linkedin Badge](https://img.shields.io/badge/-akshatsingh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singh-akshat)](https://www.linkedin.com/in/singh-akshat)
 [![Github Badge](https://img.shields.io/badge/-abhi--yo-black?style=flat&logo=github&logoColor=white&link=https://github.com/abhi-yo)](https://github.com/abhi-yo)
 [![Gmail Badge](https://img.shields.io/badge/-akshatsing11-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:akshatsing11@gmail.com)](mailto:akshatsing11@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://portfolio-akshat.vercel.app)](https://portfolio-akshat.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.akshatsingh.xyz/)](https://www.akshatsingh.xyz/)
